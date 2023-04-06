@@ -1,8 +1,12 @@
-name: ML_3_8
+name: ligo
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.8
+  - python=3.10
   - ipykernel
-prefix: /srv/conda/envs/ML_3_8
+  - numpy==1.23
+  - pandas==1.5
+  - seaborn==0.12
+  - matplotlib==3.6
+prefix: /srv/conda/envs/ligo

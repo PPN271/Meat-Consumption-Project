@@ -1,0 +1,8 @@
+name: ML_3_8
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - ipykernel
+prefix: /srv/conda/envs/ML_3_8

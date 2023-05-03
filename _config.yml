@@ -18,7 +18,7 @@ aunch_buttons:
 
 # Information about where the book exists on the web
 repository:
-  url: https://ucb-stat-159-s23.github.io/project-Group28/README.html
+  url: https://ppn271.github.io/Meat-Consumption-Project/main.html
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book

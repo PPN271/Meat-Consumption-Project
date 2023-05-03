@@ -1,0 +1,27 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Meat Consumption
+author: Group 3
+copyright: "2023"
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: 'off'
+
+only_build_toc_files: False
+
+aunch_buttons:
+  binderhub_url: "https://mybinder.org/v2/gh/PPN271/Meat-Consumption-Project/main?labpath=Meat_consumption.ipynb"  
+  use_binder_button: true
+
+# Information about where the book exists on the web
+repository:
+  url: https://ucb-stat-159-s23.github.io/project-Group28/README.html
+  branch: main  # Which branch of the repository should be used when creating links (optional)
+
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  use_repository_button: true

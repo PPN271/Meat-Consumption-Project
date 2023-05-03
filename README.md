@@ -19,7 +19,7 @@ To get started with the project, please follow these steps:
 
 Clone this repository to your local machine: 
 ```python
-git clone https://github.com/yourusername/PublicHealth101-MeatConsumption.git
+git clone https://github.com/PPN271/Meat-Consumption-Project.git
 ```
 Install the required Python packages: 
 ```python
